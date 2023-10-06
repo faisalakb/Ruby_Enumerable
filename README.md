@@ -1,13 +1,12 @@
 
 # Ruby_Morse_Code
-In this project building a simple program for encription using Ruby
+In this project building My Enumerable for any,all and filter methods using Ruby
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -19,9 +18,9 @@ In this project building a simple program for encription using Ruby
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Create your own Encription  <a name="about-project"></a>
+# 📖 Create your own Enumerable  <a name="about-project"></a>
 
-**Create your own Encription** is a project to create a Encription string using Ruby.
+**Creating my own Enumerable** project using Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,15 +35,9 @@ In this project building a simple program for encription using Ruby
 
 ### Key Features <a name="key-features"></a>
 
-- **Method creation**
-- **Use of object**
-- **Using each to iterate object**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Not deployed yet...]()
+- **define class**
+- **Use Module**
+- **Implement own enumerable methods: any,all &filter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,7 +57,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/faisalakb/Ruby_Morse_Code.git
+git clone https://github.com/faisalakb/Ruby_Enumerable.git
 ```
 
 ### Install
@@ -72,7 +65,7 @@ git clone https://github.com/faisalakb/Ruby_Morse_Code.git
 Install this project with:
 
 ```
-cd Ruby_Morse_Code
+cd Ruby_Enumerable
 gem install
 ```
 
@@ -97,7 +90,7 @@ gem install
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Apply OOP concept**
+- [ ] **Apply all OOP concepts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +98,7 @@ gem install
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/faisalakb/Ruby_Morse_Code.git/issues).
+Feel free to check the [issues page](https://github.com/faisalakb/Ruby_Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,6 +117,6 @@ If you like this project, please consider giving it a star.
 ## 📝 License <a name="license"></a>
 
 
-This project is [MIT](https://github.com/faisalakb/Ruby_Morse_Code/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/faisalakb/Ruby_Enumerable/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
