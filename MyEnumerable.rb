@@ -11,7 +11,7 @@ module MyEnumerable
 
     def filter(&block)
         resArray = []
-        each { |item| resArray << item if yield(item) }
+        each { |item| resArray.push(item) if yield(item) }
         resArray
     end
 end
