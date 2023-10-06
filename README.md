@@ -7,7 +7,6 @@ In this project building My Enumerable for any,all and filter methods using Ruby
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -39,12 +38,6 @@ In this project building My Enumerable for any,all and filter methods using Ruby
 - **define class**
 - **Use Module**
 - **Implement own enumerable methods: any,all &filter**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Not deployed yet...]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
