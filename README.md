@@ -21,7 +21,7 @@ In this project building My Enumerable for any,all and filter methods using Ruby
 
 # 📖 Create your own Enumerable  <a name="about-project"></a>
 
-**Create your own Enumerable** is a project to create a own Enumerable  using Ruby.
+**Creating my own Enumerable** project using Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
